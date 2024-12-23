@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-fileupload": "^1.5.1",
+    "process": "^0.11.10"
+  }
+}
