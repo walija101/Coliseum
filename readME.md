@@ -1,4 +1,4 @@
-Seng 513 - Group 5 - Members:
+Members:
 Nicholas MacKinnon, 30172737, nicholas.mackinnon@ucalgary.ca
 Fam Ghaly, 30122239, fam.ghaly@ucalgary.ca
 Walija Ihsan, 30172565, walija.ihsan@ucalgary.ca
